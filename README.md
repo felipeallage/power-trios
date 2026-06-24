@@ -2,6 +2,8 @@
 
 > "Como três músicos conseguem soar maiores do que bandas inteiras?"
 
+## 🚀 [Acesse o Dashboard Online](https://power-trios-zmjut2u64q4ylwhx9hmq9b.streamlit.app/)
+
 ## Sobre o Projeto
 
 Este projeto combina análise de dados, acústica musical e storytelling para responder uma pergunta que todo fã de rock já se fez: por que power trios como Jimi Hendrix Experience, Cream e The Police soam tão grandes com apenas três instrumentos?
@@ -63,9 +65,10 @@ power-trios/
 
 - [x] Análise espectral — Jimi Hendrix Experience (4 faixas)
 - [x] Comparação com contemporâneos (Rolling Stones, Beatles, Cream)
-- [ ] Análise dos outros 4 trios
-- [ ] Dashboard Streamlit
-- [ ] Notebook narrativo completo
+- [x] Análise dos 5 trios (Cream, The Police, ZZ Top, SRV)
+- [x] Dashboard Streamlit — publicado online
+- [x] Narrativa completa nos notebooks
+- [ ] Artigo no Medium / LinkedIn
 
 ## Autor
 
